@@ -5,6 +5,7 @@ This is an example of how to use the [CrewAI](https://github.com/joaomdmoura/cre
 
 ![High level image](./CrewAI-LangGraph.png)
 
+![Screenshot 2024-06-30 174919](https://github.com/AmanTechSpace/AI-agent-auto-Email-draft/assets/153986512/d70fd867-71e6-485b-95ab-1e3981fd773e)
 
 By [@joaomdmoura](https://x.com/joaomdmoura)
 
